@@ -1,11 +1,11 @@
-# SonarQube Scanner for Gradle
+# SonarQube Analysis for Gradle
 
 <p align="center">
-<a href = "https://medium.com/@sagarkrp/how-to-install-and-configure-sonarqube-with-jenkins-2fe6c732620" target ="_blank">
+<a href = "https://medium.com/@sagarcodectrl/how-to-install-and-configure-sonarqube-with-jenkins-2fe6c732620" target ="_blank">
 <img alt="NGINX" width="270px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/sonarqube/sonarqube-original-wordmark.svg" style="padding-right:10px;" />  </a>
 </p>
 </br>
-<h3> <strong> Read the detailed article on: </strong> </h3> <a href = "https://medium.com/@sagarkrp/how-to-install-and-configure-sonarqube-with-jenkins-2fe6c732620" target ="_blank"> 
+<h3> <strong> Read the detailed article on: </strong> </h3> <a href = "https://medium.com/@sagarcodectrl/how-to-install-and-configure-sonarqube-with-jenkins-2fe6c732620" target ="_blank"> 
  
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sagarkrp/sagarkrp/blob/main/images/Medium-white1x.png" width="180px" height="45px">
